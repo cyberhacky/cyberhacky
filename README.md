@@ -1,4 +1,4 @@
-# Hi, I'm Cornelius 👋
+# Hi, I'm Cornelius 
 
 ## Cybersecurity Enthusiast | Penetration Tester | Security Researcher
 
@@ -6,7 +6,7 @@ I am a passionate and detail-oriented cybersecurity professional focused on pene
 
 ---
 
-## 🔐 Core Skills
+##  Core Skills
 
 - Penetration Testing
 - Vulnerability Assessment
@@ -20,7 +20,7 @@ I am a passionate and detail-oriented cybersecurity professional focused on pene
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 ```bash
 Burp Suite | Nmap | Wireshark | Metasploit
@@ -30,20 +30,20 @@ Linux | Git | Python
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🧪 OWASP Juice Shop Pentest Report
+###  OWASP Juice Shop Pentest Report
 Web application penetration testing case study focused on identifying and documenting vulnerabilities in OWASP Juice Shop.
 
-### 💻 SMB Exploitation Lab
+###  SMB Exploitation Lab
 Hands-on lab demonstrating SMB enumeration, exploitation techniques, and post-exploitation analysis.
 
-### 🕷 crawlfuzz
+###  crawlfuzz
 Recursive crawler and fuzzing tool with recon and vulnerability discovery integrations for bug bounty and pentesting workflows.
 
 ---
 
-## 🎯 Current Goals
+##  Current Goals
 
 - Strengthening practical penetration testing skills
 - Expanding expertise in SOC operations and detection engineering
@@ -52,7 +52,7 @@ Recursive crawler and fuzzing tool with recon and vulnerability discovery integr
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - GitHub: https://github.com/cyberhacky
 - Instagram: https://instagram.com/infosec_solutions_gh
